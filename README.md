@@ -1,7 +1,16 @@
-# HelloWorld
-#我的个人简介
-###姓名李雨虹
-###本人性格开朗，待人真诚。
-###爱好广泛，热爱学习。
-###希望能学好这门课程。
-![SMILE](http://image.so.com/v?q=微笑图片&src=srp&correct=微笑图片&fromurl=http%3A%2F%2Fwww.touxiang.cn%2Ftupian%2Fweimei%2F1367486440.html&gsrc=1#q=%E5%BE%AE%E7%AC%91%E5%9B%BE%E7%89%87&src=srp&correct=%E5%BE%AE%E7%AC%91%E5%9B%BE%E7%89%87&fromurl=http%3A%2F%2Fwww.touxiang.cn%2Ftupian%2Fweimei%2F1367486440.html&gsrc=1&lightboxindex=5&id=8c303a386a5d4615297e49abe66522b4&multiple=0&itemindex=0&dataindex=48)
+#**自我介绍**
+##1.简介
+  * 姓名：李雨虹
+  * 性别：女
+  * 学号：14081214
+  * 专业：数字媒体技术  
+
+##2. 叙述
+###本人性格内向，待人真诚。
+###爱好广泛(其实都是三分钟热度。。。)，热爱学习。。。嗯！
+###其实并没有经常玩游戏，但会努力发展这方面的兴趣。
+###对于编程。。。我有想学好的热切愿望！
+###真心希望能学好这门课程啦:)。
+
+![SMILE](http://img.hb.aicdn.com/cd0bffac2598c1c227ed066d008dc044fd77695a3a5ee-XmSSWF_fw580)
+>好好学习，天天向上！嗯！
