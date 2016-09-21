@@ -1,17 +1,15 @@
-function pyramid(n:number):void{
-    //var w:string = "";
-    for(var i=0;i<n;i++){
-        var w:string = "";
-        for(var j=0;j<n-i-1;j++){
-           w = w+" ";
+function Printpyramid(totalLine:number):void{
+    for(var currentLine=0;currentLine<totalLine;currentLine++){
+        var singleLine:string = "";
+        for(var spaceCount=0;spaceCount<totalLine-currentLine-1;spaceCount++){
+           singleLine = singleLine+" ";
         }
-        for(var z=0;z<2*i+1;z++){
-           w = w+"*";
+        for(var starCount=0;starCount<2*currentLine+1;starCount++){
+           singleLine = singleLine+"*";
         }
-        //console.log("\n");
-        console.log(w);
+        console.log(singleLine);
     }
 }
-//var x:string = process.argv[2];
-//var y:number = parseInt(x);
-pyramid(8);
+//var num:string = process.argv[2];
+//var ynumInt:number = parseInt(num);
+Printpyramid(8);
